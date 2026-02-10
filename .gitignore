@@ -1,2 +1,10 @@
 /.virtual_documents/
 /.ipynb_checkpoints/
+/.virtual_documents/
+.idea/
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.virtual_documents/
+*.zip
